@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Melvin M George🙂</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melvin-m-george&label=Profile%20views&color=0e75b6&style=flat" alt="melvin-m-george" /> </p>
 
 - 🌱 I’m currently learning **JAVA and MERN Stack**
 
