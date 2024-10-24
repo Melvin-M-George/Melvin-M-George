@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Melvin M George🙂</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 
-- 🌱 I’m currently learning **JAVA and MERN Stack**
+- 🌱 I’m currently learning **JavaScript and MERN Stack**
 
-- 💬 Ask me about **Java and MERN**
+- 💬 Ask me about **JavaScript and MERN**
 
 - 📫 How to reach me **melvinmgeorge1234@gmail.com**
 
