@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melvin-m-george&label=Profile%20views&color=0e75b6&style=flat" alt="melvin-m-george" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melvin-m-george" alt="melvin-m-george" /></a> </p>
-
 - 🔭 I’m currently learning **JavaScript and MERN Stack**
 
 - 💬 Ask me about **JavaScript, Node.js, Express.js, MongoDB**
