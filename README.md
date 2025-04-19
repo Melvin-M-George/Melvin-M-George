@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently learning **JavaScript and the MERN Stack**  
-- 💬 Ask me about **JavaScript, Node.js, Express.js, MongoDB, DSA**  
+- 💬 Ask me about **JavaScript, MongoDB, ExpressJs, ReactJs, NodeJs, DSA**  
 - 📫 How to reach me: **melvinmgeorge1234@gmail.com**  
 - ⚡ Fun fact: **I believe in myself 😎!!**
 
@@ -36,7 +36,7 @@
 
 ### 📱 Connect with Me!
 <div align="left">
-  <a href="https://linkedin.com/in/melvin m george" target="_blank">
+  <a href="https://www.linkedin.com/in/melvin-m-george/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="35" height="35"/>
   </a>
   <a href="https://www.leetcode.com/melvin_m_george" target="_blank">
