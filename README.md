@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently learning **JavaScript and the MERN Stack**  
-- 💬 Ask me about **JavaScript, MongoDB, ExpressJs, ReactJs, NodeJs, DSA**  
+- 💬 Ask me about **JavaScript, MongoDB, Express, React, Node.js, DSA**  
 - 📫 How to reach me: **melvinmgeorge1234@gmail.com**  
 - ⚡ Fun fact: **I believe in myself 😎!!**
 
